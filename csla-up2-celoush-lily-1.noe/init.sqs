@@ -1,0 +1,17 @@
+0 setfog (random 0.1)
+setviewdistance (1000+random 500)
+player setidentity "hrac"
+
+0 fadesound 0
+titleCut ["","BLACK IN", 999999]
+~1
+titleRsc ["titlesceloush", "PLAIN"]
+~7
+8 fadesound 1
+titleRsc ["titlesuvadi", "PLAIN"]
+~8
+titleCut ["","BLACK IN",3]
+TitleRsc ["titlesorb", "PLAIN"]
+if (alive Spojar) Then {[Spojar,2,0,1] exec "\csla_mod\scripts\spojar\Spojar.sqs";};
+
+exit

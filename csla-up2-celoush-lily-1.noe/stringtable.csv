@@ -1,0 +1,21 @@
+LANGUAGE,English,Czech
+STR_CFG_PAPABEAR,"BASE","ZÁKLADNA"
+
+STR_CSLA_PLAYER,"Peter Urban","Petr Urban"
+STR_CSLA_CREATOR,"Celoush","Celoush"
+
+STR_MISS_LOAD,"Please wait...","Prosím èekejte..."
+
+STR_M_1,"Start point","Poèáteèní pozice"
+STR_M_2,"Enemy zone","Nepøátelské území"
+STR_M_3,"Hill","Kopec"
+
+STR_P_1,"Desert lily","Pouštní lilie"
+
+STR_title1, "Celoush","Celoush",
+
+STR_title2, "uvádí","present",
+
+STR_title3, "Pouštní lilie","Desert lily",
+
+STR_title4, "Konec","The End",
